@@ -22,15 +22,9 @@
     height: 80px;
     line-height: 50%;
 }
-.title h6{
-    line-height: 30%;
-    vertical-align: top;
-
-}
 
 h1{
     font-family: "Open Sans", serif;
-    font-size: 36px;
     font-weight: 700;
     vertical-align: top;
 }
